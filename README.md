@@ -1,4 +1,4 @@
-# Gold Price Forecasting in INR 📉💰
+# Gold Price Forecasting 📉💰
 
 This project applies **Data Science techniques** to forecast **gold prices** in Indian Rupees (INR) for a 10-month horizon. The models utilized in this project include **Multiple Linear Regression**, **Moving Averages (6 months & 12 months)**, **Simple Exponential Smoothing**, and **Holt’s Method**. The goal is to analyze historical gold price data and forecast future prices using various time-series forecasting methods.
 
